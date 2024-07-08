@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍💻 I am a third year PhD student at the University of Illinois Chicago.
+👩🏻‍💻 I am a fourth year PhD student at the University of Illinois Chicago.
 
 🤸🏻‍♀️ My work centers on understanding mood and cognition through passive sensing. 
 Currently, I am working on two projects.
