@@ -4,9 +4,9 @@ main:
 #    url: /publications/
     url: https://scholar.google.com/citations?user=2FXGQxkAAAAJ&hl=en
 
-#  - title: "CV"
-#    url: /files/Resume.pdf
-##    url: /cv/
+  - title: "CV"
+    url: /files/Ning_CV_2024.pdf
+#    url: /cv/
 #
 #  - title: "Talks"
 #    url: /talks/
